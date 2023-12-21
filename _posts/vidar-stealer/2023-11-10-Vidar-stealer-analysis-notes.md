@@ -2,7 +2,7 @@
 layout: post
 title: "Vidar Stealer"
 date: 2023-11-10 21:21:21
-categories: malware stealer windows
+tags : [malware,stealer,windows]
 ---
 
 # Beginning

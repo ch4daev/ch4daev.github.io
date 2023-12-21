@@ -2,7 +2,7 @@
 layout: post
 title: "Socks5Systemz"
 date: 2023-12-18 18:20:11
-categories: malware botnet windows
+tags : [malware,botnet,windows]
 ---
 
 Loader : [Malware Bazaare](https://bazaar.abuse.ch/sample/22fdfde16d444cb9abe26e5f06cc4d7b72b98499a3819240615fef58cf6b41e5/)
