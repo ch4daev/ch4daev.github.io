@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Diving into SmokeLoader shellcode"
-date: 2024-01-26 19:00:01
+date: 2024-01-25 19:00:01
 tags : [malware,loader,windows]
 ---
 
