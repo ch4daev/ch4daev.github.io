@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stealing rdp credentials"
-date: 2024-08-31 12:00:00
+date: 2024-08-30 12:00:00
 tags : [maldev, windows]
 ---
 
